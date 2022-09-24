@@ -4,7 +4,7 @@
 
 Just building various projects that may solve problems for the people.
 
-<img src="https://github-readme-stats.vercel.app/api?username=ninode97&count_private=true&&show_icons=true&title_color=6e9a44&icon_color=bad072&text_color=d5e2ed&bg_color=023026&fbclid=IwAR0IyWkThrhvEulrwsa-52KTiUUCo6G4h4alQk6hJdqFA6y3gForrgXN-V4" >
+[![GitHub Streak](https://streak-stats.demolab.com?user=ninode97&theme=neon-palenight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
